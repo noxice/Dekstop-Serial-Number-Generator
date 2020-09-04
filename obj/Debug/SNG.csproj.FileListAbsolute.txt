@@ -1,9 +1,0 @@
-C:\Users\noxice\source\repos\SNG\bin\Debug\SNG.exe.config
-C:\Users\noxice\source\repos\SNG\bin\Debug\SNG.exe
-C:\Users\noxice\source\repos\SNG\bin\Debug\SNG.pdb
-C:\Users\noxice\source\repos\SNG\obj\Debug\SNG.csprojAssemblyReference.cache
-C:\Users\noxice\source\repos\SNG\obj\Debug\SNG.Form1.resources
-C:\Users\noxice\source\repos\SNG\obj\Debug\SNG.Properties.Resources.resources
-C:\Users\noxice\source\repos\SNG\obj\Debug\SNG.csproj.GenerateResource.cache
-C:\Users\noxice\source\repos\SNG\obj\Debug\SNG.exe
-C:\Users\noxice\source\repos\SNG\obj\Debug\SNG.pdb
